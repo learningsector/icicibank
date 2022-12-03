@@ -1,4 +1,4 @@
-i am updating this line only
+i am updating this line only for his fole
 echo "this file contains some whether cast info"
 read -p "enter the reading" reading
 if (( reading -le 35 ))
