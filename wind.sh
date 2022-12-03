@@ -1,4 +1,4 @@
-i am updating this line only for his fole
+now i am update this line for branching.?$#%^!
 echo "this file contains some whether cast info"
 read -p "enter the reading" reading
 if (( reading -le 35 ))
