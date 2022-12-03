@@ -1,5 +1,4 @@
 i am updating this line only
-soooo
 echo "this file contains some whether cast info"
 read -p "enter the reading" reading
 if (( reading -le 35 ))
