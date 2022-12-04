@@ -9,3 +9,4 @@ then
 else
 	echo "there is no chance to get the rain"
 fi
+echo "this is over "
