@@ -1,0 +1,7 @@
+echo "hii good afternoon"
+echo "hello"
+set -x
+echo "good morning"
+echo "hii"
+set +x
+echo "hello"
