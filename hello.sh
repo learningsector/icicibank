@@ -1,4 +1,3 @@
-echo "hii"
-echo"hello'
-echo "heeillo"
-echo "hii
+helloo namste
+holoool
+hii
