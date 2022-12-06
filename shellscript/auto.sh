@@ -1,3 +1,4 @@
+hiiiiiiiiiiiiiii
 echo "hi"
 echo "hello"
 set -x
@@ -7,3 +8,4 @@ set +x
 echo "good afternoon"
 echo "good evening"
 echo "today date is:" `date`
+
