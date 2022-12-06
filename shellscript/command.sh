@@ -1,3 +1,4 @@
+hiiiiiiiiii
 echo "this is the script for command line arguments"
 
 echo $0
