@@ -3,4 +3,5 @@ echo "hii"
 echo "hello"
 echo $*
 echo $?
-echo 
+echo "today dae is "
+date
