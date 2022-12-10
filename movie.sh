@@ -6,3 +6,4 @@ then
 else
 	echo "this is not your movie "
 fi
+echo "this script is over"
