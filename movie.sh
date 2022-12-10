@@ -1,3 +1,4 @@
+hiiiiiii
 echo "this is file for the creation of movies stories"
 read -p "enter your movie name:" name
 if [ name -eq  0 ]
