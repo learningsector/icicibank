@@ -1,4 +1,4 @@
-
+echo "hi raa stupid why did you think about others overly concentrare ra waste fellow"
 today date id 10th dec 2022
 hi this is physics related file
 and this is the physisc confirmation
